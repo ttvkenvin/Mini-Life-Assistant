@@ -9,4 +9,8 @@ Features:
 Do you think you don't remember too many passwords in the Internet age? Therefore, our small module will solve your problem and record the forgetful account password. Of course, for security reasons, you must set a simple password before entering the mini book.
 
 # Screenshot
-![image](https://github.com/ttvkenvin/Faisal-s-Funny-Voice/blob/master/sc/1.png)
+![image](https://github.com/ttvkenvin/Mini-Life-Assistant/blob/master/1.png)
+![image](https://github.com/ttvkenvin/Mini-Life-Assistant/blob/master/2.png)
+![image](https://github.com/ttvkenvin/Mini-Life-Assistant/blob/master/3.png)
+![image](https://github.com/ttvkenvin/Mini-Life-Assistant/blob/master/4.png)
+![image](https://github.com/ttvkenvin/Mini-Life-Assistant/blob/master/5.png)
